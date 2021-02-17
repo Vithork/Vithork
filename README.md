@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/vithor-data/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="vithork.medium.com">
-    <img src="https://img.icons8.com/ios/50/000000/medium-monogram--v2.png"/>
-  </a>&nbsp;&nbsp;
-  
+</p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vithork&show_icons=true&locale=en" alt="vithork" width="350"></a>
 </p>
 
 - 🔭 Eu comecei a estudar no projeto da RESILIA + IFOOD: [Vamo AI](https://exame.com/tecnologia/ifood-quer-ensinar-programacao-para-mulheres-e-negros-pobres/)
