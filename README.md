@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/vithor-data/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/vithor">
-    <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/06/kaggle-logo.png" />        
+  <a href="vithork.medium.com">
+    <img src="https://img.icons8.com/ios/50/000000/medium-monogram--v2.png"/>
   </a>&nbsp;&nbsp;
   
 </p>
