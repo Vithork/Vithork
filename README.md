@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vithork&show_icons=true&locale=en" alt="vithork" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vithork&show_icons=true&theme=tokyonight&locale=pt-br" alt="vithork" width="350"></a>
 </p>
 
 - 🔭 Eu comecei a estudar no projeto da RESILIA + IFOOD: [Vamo AI](https://exame.com/tecnologia/ifood-quer-ensinar-programacao-para-mulheres-e-negros-pobres/)
