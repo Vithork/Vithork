@@ -24,6 +24,7 @@
 
 ### Posts Do Medium
 <!-- BLOG-POST-LIST:START -->
+- [Os fundamentos do Python: Objetos básicos](https://medium.com/@vithork/os-fundamentos-do-python-objetos-b%C3%A1sicos-8279ef2ff338?source=rss-7d2159006834------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
